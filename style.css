@@ -1,0 +1,24 @@
+/* Set the background color and dimensions of the game screen */
+#gameCanvas {
+    background-color: #000000;
+    width: 800px;
+    height: 400px;
+}
+
+/* Style the paddles */
+.paddle {
+    background-color: #FFFFFF;
+}
+
+/* Style the ball */
+.ball {
+    background-color: #FFFFFF;
+    border-radius: 50%;
+}
+
+/* Style the score display */
+#scoreDisplay {
+    color: #FFFFFF;
+    font-size: 24px;
+    text-align: center;
+}
